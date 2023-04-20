@@ -1,3 +1,3 @@
 # Mypilas
-Meu projeto pessoal de HTML e CSS puro - uma jornada de aprendizado da construção de websites simples até a criação de designs mais complexos.
-este projeto será atualizado em breve
+My personal pure HTML and CSS project - a learning journey from building simple websites to creating more complex designs.
+I developed this project together with a course I took at the AlgaWorks school and it will be updated soon.
